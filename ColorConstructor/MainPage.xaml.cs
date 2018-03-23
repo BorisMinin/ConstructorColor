@@ -15,7 +15,7 @@ using Windows.UI.Xaml.Navigation;
 using Windows.UI;
 
 // The Blank Page item template is documented at https://go.microsoft.com/fwlink/?LinkId=402352&clcid=0x409
-
+// Добавлен проект на GitHub
 namespace ColorConstructor
 {
     /// <summary>
